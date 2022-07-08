@@ -68,3 +68,8 @@
 } 
 
 /* media queires */
+@media all and (max-width:500px){
+    .container{
+        font-size: 0.7rem;;
+    }
+}
